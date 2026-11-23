@@ -1,7 +1,7 @@
 {
   "name": "小鱼爱学习",
   "short_name": "小鱼爱学习",
-  "description": "离线可用的每日学习计划、倒计时与课内任务手账",
+  "description": "离线可用的每日学习计划、倒计时与任务截止手账",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
